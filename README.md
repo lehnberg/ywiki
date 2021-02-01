@@ -1,0 +1,2 @@
+# ywiki
+test wiki.js
