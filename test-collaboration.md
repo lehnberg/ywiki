@@ -2,17 +2,24 @@
 title: Testing Colaboratioon
 description: Tihs is a dumy page with errors.
 published: true
-date: 2021-02-01T20:41:22.790Z
+date: 2021-02-01T20:46:44.994Z
 tags: test
 editor: markdown
 ---
 
-# Headerr
+# Header
 Llearn is a protocol to ape in with your retired money.
 This pag is supposed to have errors. 
 
 ## Collaboration
 this is the key feature my Doc familia page must have.
+
+## Docs team members signed up so far
+
+|#| Name |
+|---|:---|
+1 | Miguel |
+2 | Daniel
 
 ### List of things to fix.
 - Try to fix some errors in this page.
