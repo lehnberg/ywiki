@@ -2,7 +2,7 @@
 title: Testing Colaboratioon
 description: Tihs is a dumy page with errors.
 published: true
-date: 2021-02-01T20:46:44.994Z
+date: 2021-02-01T20:47:19.796Z
 tags: test
 editor: markdown
 ---
@@ -19,7 +19,7 @@ this is the key feature my Doc familia page must have.
 |#| Name |
 |---|:---|
 1 | Miguel |
-2 | Daniel
+2 | Daniel |
 
 ### List of things to fix.
 - Try to fix some errors in this page.
