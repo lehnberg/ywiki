@@ -1,3 +1,12 @@
+---
+title: team
+description: 
+published: true
+date: 2021-02-02T02:27:36.593Z
+tags: 
+editor: markdown
+---
+
 # Team
 
 ## Ops
@@ -30,7 +39,7 @@
 | :------------------------------------------------ | :---------------------------------------- | :----------------------------------- |
 | [@franklin](https://gov.yearn.finance/u/franklin) | [@DeFiGod1](https://twitter.com/DeFiGod1) | N/A                                  |
 | [@fameal](https://gov.yearn.finance/u/fameal)     | [@fameal](https://twitter.com/fameal)     | [@fameal](https://github.com/fameal) |
-| [@Dark](https://gov.yearn.finance/u/dark)         | N/A                                       | N/A                                  |
+| [@Dark](https://gov.yearn.finance/u/dark)         | N/A                                       | [@DarkGhost7](https://github.com/DarkGhost7)                                  |
 
 ## Community Grants
 
