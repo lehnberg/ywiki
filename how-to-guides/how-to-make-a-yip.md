@@ -1,3 +1,12 @@
+---
+title: how-to-make-a-yip
+description: 
+published: true
+date: 2021-02-08T20:19:33.218Z
+tags: 
+editor: markdown
+---
+
 # How To Make a YIP
 
 ## Abstract
